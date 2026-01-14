@@ -1,17 +1,4 @@
-# Secrets and Credentials
 .env
-.env.local
-secrets.toml
-
-# Python Environment
-venv/
-env/
+.streamlit/secrets.toml
 __pycache__/
-*.pyc
-
-# Operating System Files
-.DS_Store
-Thumbs.db
-
-# Streamlit Specific
-.streamlit/config.toml
+venv/
